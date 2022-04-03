@@ -44,8 +44,8 @@ Use the project in [tp3-heap](../code/tp3-heap) to complete this exercise.
 
 1. We identified that pop and peek need to verify the count. We need at least one element to peek or pop. Count is used in every method so.
 
-2. We had 94% for the first coverage. We verified where the code wasn't covered. So we saw that we forgot to tests to pop and push equal values. So now we are at 100%
+2. We had 94% for the first coverage. We verified where the code wasn't covered. So we saw that we forgot to tests to pop and push equal values. So now we are at 100%.
 
-3. I had a coverage of 100% so i think my test case satisfy *Base Choice Coverage* because i try to follow in my test each cases in the if.
+3. We had a coverage of 100% so we think my test case satisfy *Base Choice Coverage* because we tried to follow in my test each cases in the if.
 
-4.  i had 89 % because i used >0 instead of >=1 in my code. It wasn't posssible to modify only the test to upgrade our mutation score so i update the code.
+4. We had 89 % because we used ``` > 0 ``` instead of ``` >= 1``` in my code. It wasn't posssible to modify only the test to upgrade our mutation score so i update the code.
