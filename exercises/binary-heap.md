@@ -48,4 +48,4 @@ Use the project in [tp3-heap](../code/tp3-heap) to complete this exercise.
 
 3. We had a coverage of 100% so we think my test case satisfy *Base Choice Coverage* because we tried to follow in my test each cases in the if.
 
-4. We had 89 % because we used ``` > 0 ``` instead of ``` >= 1``` in my code. It wasn't posssible to modify only the test to upgrade our mutation score so i update the code.
+4. We had 89 % because we used ``` > 0 ``` instead of ``` >= 1``` in our code. It wasn't posssible to modify only the test to upgrade our mutation score, so we updated the code.
