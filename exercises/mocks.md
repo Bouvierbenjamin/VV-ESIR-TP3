@@ -12,4 +12,4 @@ Propose a solution to this problem in your new Mockito-based test cases.
 
 # Answers
 
-After change the test with Mockito, we verify with Mockito that the method ```setEnabledProtocols``` was launch at least once.
+After change the test with Mockito, we verified with Mockito that the method ```setEnabledProtocols``` has been launched at least once.
